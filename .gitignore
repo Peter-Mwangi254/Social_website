@@ -1,0 +1,9 @@
+# Ignore CPython-specific files and directories
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyi
+*.pyd
+*.pyw
